@@ -1,11 +1,3 @@
-# Aaron Fanick - 103824121
-# Project 1 - Feb. 17, 2019
-# MacBook Air, 2017
-# Operating System - macOS High Sierra Version 10.13.2
-# 8 GB RAM
-# 1.8 GHz Intel Core i5 Processor
-# Python Version 3.6.0 (it should still work with any other version)
-
 import time # time package to track CPU time
 import numpy as np # numpy package referred to as np
 import matplotlib.pyplot as plt # matplotlib.pyplot package referred to as plt
